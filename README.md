@@ -45,6 +45,10 @@ git push
 	- Minify images (Imagemin)
 	- With a watcher to do this all in developpment mode.
 
+# REQUIRED
+	- Sass preprocessor
+	- Grunt
+
 # INSTALLATION
 
 - Clone repository
