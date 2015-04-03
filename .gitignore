@@ -1,0 +1,7 @@
+/local-config.php
+/sql-dump-*.sql
+/db-sync
+/node_modules
+/content/uploads-min
+/content/themes/reverie-master/img-min
+.DS_Store

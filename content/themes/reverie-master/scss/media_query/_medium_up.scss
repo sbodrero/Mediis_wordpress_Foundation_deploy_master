@@ -1,0 +1,6 @@
+#content {
+	padding: $content-padding;
+}
+.entry-author {
+	margin: rem-calc(50) (-$content-padding);
+}
